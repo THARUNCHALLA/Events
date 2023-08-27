@@ -1,0 +1,25 @@
+li {
+  list-style-type: none;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+.image {
+  height: 200px;
+  width: 100%;
+}
+.heading12 {
+  font-family: 'roboto';
+  color: white;
+  font-size: 16px;
+}
+.location {
+  font-family: 'roboto';
+  color: white;
+  font-size: 12px;
+}
+button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}

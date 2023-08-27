@@ -1,0 +1,21 @@
+.container1 {
+  display: flex;
+}
+.backGroundContainer {
+  background-color: #3a4b63;
+  border: solid 1px #3a4b63;
+  width: 80%;
+}
+.unOrderedList {
+  display: flex;
+  flex-wrap: wrap;
+}
+.heading {
+  color: white;
+  font-family: 'bree serif';
+  font-size: 22px;
+  margin-left: 68px;
+}
+.hg {
+  color: black;
+}
